@@ -56,7 +56,9 @@ Eu sou o **Jhon Ross** — dev que curte criar coisas do zero, ver tudo funciona
 ---
 
 ## Vamos trocar uma ideia? 📫
-- Discord: Participe da minha comunidade para conversar sobre desenvolvimento, automações e projetos em andamento: https://discord.com/invite/Tax7zUGy7C 📌💻
+- Discord: Participe da minha comunidade para conversar sobre desenvolvimento, automações e projetos em andamento 📌💻
+
+[![Discord](https://img.shields.io/badge/Discord-Entrar%20na%20comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Tax7zUGy7C)
 - E-mail: jhonross.lp@outlook.com
 
 ---
