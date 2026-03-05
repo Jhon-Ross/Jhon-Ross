@@ -56,9 +56,8 @@ Eu sou o **Jhon Ross** — dev que curte criar coisas do zero, ver tudo funciona
 ---
 
 ## Vamos trocar uma ideia? 📫
-- Discord: **SEU_USER_AQUI**
-- E-mail: **seuemail@dominio.com**
-- LinkedIn: **https://linkedin.com/in/SEU_USER_AQUI**
+- Discord: https://discord.com/invite/Tax7zUGy7C
+- E-mail: jhonross.lp@outlook.com
 
 ---
 
