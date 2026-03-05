@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imgs/perfil.github.png" alt="Banner - Jhon Ross" />
+  <img src="https://raw.githubusercontent.com/Jhon-Ross/Jhon-Ross/main/imgs/perfil.github.png" alt="Banner - Jhon Ross" />
 </p>
 
 ## Fala, dev! 👋
