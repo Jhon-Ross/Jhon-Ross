@@ -63,5 +63,5 @@ Eu sou o **Jhon Ross** — dev que curte criar coisas do zero, ver tudo funciona
 ---
 
 ## GitHub (opcional) 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhon-Ross&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Ross&layout=compact&theme=tokyonight)
