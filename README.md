@@ -56,7 +56,7 @@ Eu sou o **Jhon Ross** — dev que curte criar coisas do zero, ver tudo funciona
 ---
 
 ## Vamos trocar uma ideia? 📫
-- Discord: https://discord.com/invite/Tax7zUGy7C
+- Discord: Participe da minha comunidade para conversar sobre desenvolvimento, automações e projetos em andamento: https://discord.com/invite/Tax7zUGy7C 📌💻
 - E-mail: jhonross.lp@outlook.com
 
 ---
