@@ -60,9 +60,3 @@ Eu sou o **Jhon Ross** — dev que curte criar coisas do zero, ver tudo funciona
 
 [![Discord](https://img.shields.io/badge/Discord-Entrar%20na%20comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Tax7zUGy7C)
 - E-mail: jhonross.lp@outlook.com
-
----
-
-## GitHub (opcional) 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhon-Ross&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Ross&layout=compact&theme=tokyonight)
