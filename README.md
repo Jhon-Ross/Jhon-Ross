@@ -29,6 +29,11 @@ Eu sou o **Jhon Ross** — dev que curte criar coisas do zero, ver tudo funciona
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### Banco de Dados 🗄️
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
 ### FiveM / Roleplay Dev 🧪
 - 🧱 Experiência com **VRPEX** e **Creative**
 - 🧭 Próximo foco: projetos na linha **QBCore / Qbox (QBX)**
